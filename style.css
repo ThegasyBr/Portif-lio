@@ -36,3 +36,7 @@ h2{
     .lista2 li{ 
 display: block;
         }
+
+        label {
+            color: white;
+        }
